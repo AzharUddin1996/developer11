@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    padding: 50px;
+    background-image: radial-gradient(circle, yellow, red, blue);
+}
+
+h1 {
+
+    background-image: linear-gradient(green, yellow);
+    width: 50%;
+    text-align: center;
+
+    border-radius: 10px;
+    box-shadow: 5px 4px 7px;
+}
+
+.h {
+    font-weight: bold;
+    background-color: rgb(229, 247, 188);
+    font-size: 27px;
+    margin-bottom: 10px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    border: 10px solid rgb(136, 216, 8);
+    border-radius: 50%;
+
+}
+
+.haf {
+    width: 50%;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+p {
+    color: white;
+}
