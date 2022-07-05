@@ -26,7 +26,7 @@
 }
 
 .h {
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -97,10 +97,16 @@ p {
 
 .section3 {
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+
 }
 
 .comon {
     box-shadow: 5px 5px 16px;
+    padding: 100px;
 }
 
 .half-width33 {
